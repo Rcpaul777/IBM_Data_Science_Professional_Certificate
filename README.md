@@ -44,4 +44,4 @@ The courses enlisted in this specialization are as follows:
 The course is a paid Course but if you can't afford that, then there is **Finacial Aid** option
 You can apply for that by answering some questions 
 
-Check this answers so you will get a rough idea : [Financial Aid Answers](https://github.com/rcpaul777/IBM_Data_Science_Professional_Certification/blob/main/Financial%20Aid.pdf)
+Check this answers so you will get a rough idea : [Financial Aid Answers](https://github.com/Rcpaul777/IBM_Data_Science_Professional_Certificate/blob/fa86dd7f9a0218ff9a47dfda156d1a01a9415c8d/Financial%20Aid.pdf)
